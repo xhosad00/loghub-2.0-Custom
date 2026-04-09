@@ -16,11 +16,10 @@ From the postProcess options
       - join two variables that have no char between (so join `<*><*>` into `<*>`)
       - join two variables that are seperated by several delimeters (`/[#:/@.]/`)
 
-The following were aplied
-   - DS (Double Space)
+
+ The following were aplied
    - DG (Digit)
-   - WV (Word concatenated with Variable)
    - DV (Dot-separated Variables)
    - CV (Consecutive Variables)
 
-Look into post_process.py for details
+Look into post_process.py for details -->
